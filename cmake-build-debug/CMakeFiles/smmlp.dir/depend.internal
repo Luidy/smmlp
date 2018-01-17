@@ -7,18 +7,18 @@ CMakeFiles/smmlp.dir/layer.cpp.o
  /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/node.h
  /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/utils.h
 CMakeFiles/smmlp.dir/main.cpp.o
- /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/Sample.h
  /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/layer.h
  /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/main.cpp
  /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/network.h
  /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/node.h
+ /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/sample.h
  /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/utils.h
 CMakeFiles/smmlp.dir/network.cpp.o
- /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/Sample.h
  /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/layer.h
  /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/network.cpp
  /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/network.h
  /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/node.h
+ /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/sample.h
  /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/utils.h
 CMakeFiles/smmlp.dir/node.cpp.o
  /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/node.cpp

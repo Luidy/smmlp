@@ -84,9 +84,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/Sample.h">
-			<Option target="smmlp"/>
-		</Unit>
 		<Unit filename="/home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/layer.cpp">
 			<Option target="smmlp"/>
 		</Unit>
@@ -106,6 +103,9 @@
 			<Option target="smmlp"/>
 		</Unit>
 		<Unit filename="/home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/node.h">
+			<Option target="smmlp"/>
+		</Unit>
+		<Unit filename="/home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/sample.h">
 			<Option target="smmlp"/>
 		</Unit>
 		<Unit filename="/home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/utils.h">

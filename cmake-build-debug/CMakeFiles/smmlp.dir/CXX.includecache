@@ -6,14 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/Sample.h
-cstdlib
--
-vector
--
-ostream
--
-
 /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/layer.cpp
 layer.h
 /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/layer.h
@@ -43,8 +35,8 @@ cassert
 /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/main.cpp
 iostream
 -
-Sample.h
-/home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/Sample.h
+sample.h
+/home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/sample.h
 network.h
 /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/network.h
 
@@ -59,8 +51,8 @@ string
 -
 layer.h
 /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/layer.h
-Sample.h
-/home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/Sample.h
+sample.h
+/home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/sample.h
 
 /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/node.cpp
 node.h
@@ -88,6 +80,14 @@ algorithm
 cassert
 -
 functional
+-
+
+/home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/sample.h
+cstdlib
+-
+vector
+-
+ostream
 -
 
 /home/smgo/Depot/Cryptic/DNN/WorkingDir/smmlp/utils.h

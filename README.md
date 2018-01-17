@@ -30,10 +30,7 @@ For a simple MLP model i wrote 6 important file:
 ##### sample.h: Training sample structure
 ##### utls.h: Different kind of helper function
 
-
-
-### Next
-If you want to know more, look [**smafjal**](https://smafjal.github.io/)
-
 ### Note
 Don't forget to say thanks [davidalbertonogueira](https://github.com/davidalbertonogueira). Most of the code are borrowed from him.
+
+**My blog:** [**smafjal**](https://smafjal.github.io/)
