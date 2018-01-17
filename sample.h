@@ -10,9 +10,9 @@
 #include <vector>
 #include <ostream>
 
-class Sample {
+class sample {
 public:
-    explicit Sample(const std::vector<double> &input_vector) {
+    explicit sample(const std::vector<double> &input_vector) {
         input = input_vector;
     }
 
@@ -28,7 +28,7 @@ public:
         input.insert(input.begin(), bias_value);
     }
 
-    friend std::ostream &operator<<(std::ostream &stream, Sample const &obj) {
+    friend std::ostream &operator<<(std::ostream &stream, sample const &obj) {
         obj.PrintSample(stream);
         return stream;
     };
@@ -47,11 +47,11 @@ protected:
 };
 
 
-class TrainingSample : public Sample {
+class TrainingSample : public sample {
 public:
     TrainingSample(const std::vector<double> &input_vector,
                    const std::vector<double> &output_vector) :
-            Sample(input_vector) {
+            sample(input_vector) {
         output = output_vector;
     }
 

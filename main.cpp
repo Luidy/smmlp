@@ -3,7 +3,7 @@
 //
 
 #include <iostream>
-#include "Sample.h"
+#include "sample.h"
 #include "network.h"
 
 int main() {

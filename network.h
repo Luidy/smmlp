@@ -9,7 +9,7 @@
 #include <vector>
 #include <string>
 #include "layer.h"
-#include "Sample.h"
+#include "sample.h"
 
 class Network {
 public:

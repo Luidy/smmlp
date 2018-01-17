@@ -33,7 +33,7 @@ For a simple MLP model i wrote 6 important file:
 
 
 ### Next
-If you want to know about code description, look [**smafjal**](https://smafjal.github.io/)
+If you want to know more, look [**smafjal**](https://smafjal.github.io/)
 
 ### Note
 Don't forget to say thanks [davidalbertonogueira](https://github.com/davidalbertonogueira). Most of the code are borrowed from him.
