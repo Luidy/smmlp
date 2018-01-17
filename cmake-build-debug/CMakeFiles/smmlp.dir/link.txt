@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/smmlp.dir/main.cpp.o CMakeFiles/smmlp.dir/network.cpp.o CMakeFiles/smmlp.dir/node.cpp.o CMakeFiles/smmlp.dir/layer.cpp.o  -o smmlp 
