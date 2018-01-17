@@ -1,5 +1,5 @@
 # smmlp
-![smmlp](https://github.com/smafjal/smmlp/img/nn.jpeg)
+![smmlp](https://github.com/smafjal/smmlp/tree/master/img/nn.jpeg)
 
 ## About
 It's a simple multilayer perceptron model, implemented in c++ to get an inner idea about backpropagation.
@@ -7,7 +7,7 @@ It's a simple multilayer perceptron model, implemented in c++ to get an inner id
 
 ## Backpropagation
 
-![backpropagation](https://github.com/smafjal/smmlp/img/backpropagation.png)
+![backpropagation](https://github.com/smafjal/smmlp/tree/master/img/backpropagation.png)
 
 More about this on [**brilliant.org**](https://brilliant.org/wiki/backpropagation/)
 
