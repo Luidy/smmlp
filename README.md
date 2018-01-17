@@ -1,5 +1,5 @@
 # smmlp
-![smmlp](img/nn.jpeg)
+![smmlp](img/nn.png)
 
 ## About
 It's a simple multilayer perceptron model, implemented in c++ to get an inner idea about backpropagation.
