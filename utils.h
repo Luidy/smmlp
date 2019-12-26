@@ -21,7 +21,7 @@
 #include <typeinfo>
 #include <typeindex>
 #include <cassert>
-#include <sys/time.h>
+#include <time.h>
 
 
 namespace utils {
